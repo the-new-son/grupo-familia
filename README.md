@@ -47,4 +47,4 @@ Lembre-se de substituir `nome_do_arquivo.py` pelo nome real do arquivo que cont�
 
 - Certifique-se de estar conectado ao WhatsApp Web antes de executar o script.
 
-Com essas informações, você está pronto para usar o script de automação do WhatsApp Web! Lembre-se de que o código pode ser modificado e aprimorado de acordo com suas necessidades específicas.
+Com essas informações, você está pronto para usar o script de automação do WhatsApp Web! Lembre-se de que o código pode ser modificado e aprimorado de acordo com suas necessidades específicas
